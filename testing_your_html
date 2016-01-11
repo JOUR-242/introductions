@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Where to Test Your HTML</title>
+</head>
+
+  <body>
+    <p>Not sure what the files on this repository are doing? New to HTML? Copy the raw code into the editor below to see the output of the html in this repository.</p>
+    <p><a href="http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_basic">W3SCHOOLS.COM HTML PREVIEW/EDITING TOOL</a>
+
+  </body>
+
+</html>
+
+
